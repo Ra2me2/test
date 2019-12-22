@@ -1,0 +1,19 @@
+{
+  "name": "recruitment-chatbot",
+  "version": "1.0.0",
+  "description": "npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Rami",
+  "license": "ISC",
+  "dependencies": {
+    "dialogflow": "^1.0.0",
+    "firebase": "^7.6.1"
+  }
+}
